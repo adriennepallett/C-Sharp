@@ -20,3 +20,4 @@ OrderXML ----------------------- Stable ✅
 
 PasswordGuessing --------------- Stable ✅
 
+Classes ------------------------ Stable ✅
