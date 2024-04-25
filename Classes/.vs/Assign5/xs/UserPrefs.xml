@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{77B6A11F-D7D7-4668-B610-58D4C5FA38E0}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assign5 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assign5/Views/Class/Index.cshtml">
+    <Files>
+      <File FileName="Assign5/Controllers/ClassController.cs" Line="1" Column="1" />
+      <File FileName="Assign5/Models/ClassModel.cs" Line="15" Column="1" />
+      <File FileName="Assign5/Services/DataSet.cs" Line="19" Column="37" />
+      <File FileName="Assign5/Services/ClassDAO.cs" Line="1" Column="1" />
+      <File FileName="Assign5/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Assign5/Views/Class/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Assign5/Views/Class/Edit.cshtml" Line="27" Column="16" />
+      <File FileName="Assign5/Views/Class/Index.cshtml" Line="7" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assign5" expanded="True">
+            <Node name="Assign5" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Class" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
