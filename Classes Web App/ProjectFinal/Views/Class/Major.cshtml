@@ -1,0 +1,35 @@
+@model IEnumerable<ProjectFinal.Models.ClassModel>
+
+<div class="f-left">
+    <h4>Major</h4>
+    <span class="bold">Credits:</span><span> 34</span>
+    <br />
+</div>
+
+<div class="create-button">
+    <a asp-action="Create" class="btn btn-primary">Add Class</a>
+</div>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class=" col-md-4 mb-4">
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <p class="card-text">@Html.DisplayFor(m => item.Complete)</p>
+
+                    <h4 class="card-title">@item.Number</h4>
+                    <p class="card-text course-name">@item.Name</p>
+                    <p class="card-text text-info course-grade">Grade: @item.Grade</p>
+
+                    <div class="crud-buttons">
+                        <a href="/Class/Details/@item.ID" class="btn btn-success">Details</a>
+                        <a href="/Class/Edit/@item.ID" class="btn btn-warning edit-button">Edit</a>
+                        <a href="/Class/Delete/@item.ID" class="btn btn-danger delete-button">Delete</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    }
+</div>

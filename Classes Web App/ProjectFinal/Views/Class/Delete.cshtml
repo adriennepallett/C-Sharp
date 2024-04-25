@@ -1,0 +1,51 @@
+@model ProjectFinal.Models.ClassModel
+
+<h4 class="text-danger">!! CAUTION !!</h4>
+<h5 class="text-danger m-bottom">You are about to delete a class, are you sure?</h5>
+<p class="bold">This can't be undone</p>
+<div>
+    <hr />
+    <dl class="row form-row">
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Section)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Section)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Grade)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Grade)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Complete)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Complete)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete" method="post" class="form-buttons">
+        <input type="submit" value="Yes" class="btn btn-danger button2"/>
+        <a asp-action="Index" class="btn btn-primary">No</a>
+    </form>
+</div>

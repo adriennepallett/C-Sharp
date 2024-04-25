@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectFinal
+build_property.RootNamespace = ProjectFinal
+build_property.ProjectDir = /Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/GeneralEducation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvR2VuZXJhbEVkdWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/Major.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvTWFqb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Class/Minor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvTWlub3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Login/LoginFailed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vTG9naW5GYWlsZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Login/LoginSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vTG9naW5TdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adriennepallett/Library/CloudStorage/OneDrive-NovaSoutheasternUniversity/Winter 2024/CSIS4311 Web Services/Assignments/ProjectFinal/ProjectFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gyty2z3bvb

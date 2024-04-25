@@ -1,0 +1,48 @@
+@model ProjectFinal.Models.ClassModel
+
+<div>
+    <h4>Class Details</h4>
+    <hr />
+    <dl class="row form-row">
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Section)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Section)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Grade)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Grade)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Complete)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Complete)
+        </dd>
+        <dt class="col-sm-2 bold">
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+        <dd class="col-sm-10 m-bottom">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+    </dl>
+</div>
+<div class="form-buttons">
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }, new { @class = "btn btn-warning button2" })
+    <a asp-action="Index" class="btn btn-success">Back</a>
+</div>

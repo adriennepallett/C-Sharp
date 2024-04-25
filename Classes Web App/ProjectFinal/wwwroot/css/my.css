@@ -1,0 +1,85 @@
+﻿/*My Custom CSS File*/
+
+h4 {
+    font-weight: bold;
+    padding: 20px 0;
+}
+
+.course-name {
+    font-style: italic;
+}
+
+.course-grade {
+    font-weight: bold;
+    padding: 10px;
+    border: dotted;
+    border-color: #1f9bcf;
+}
+
+.form-row {
+    margin: 20px;
+}
+
+.form-group {
+    margin: 20px;
+}
+
+.form-buttons {
+    margin: 40px;
+}
+
+.submit-button {
+    margin: 20px;
+}
+
+.class-complete {
+    margin-left: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.f-left {
+    float: left;
+    padding-bottom: 20px;
+}
+
+.create-button {
+    text-align: center;
+    float: right;
+    margin: 40px;
+}
+
+.card-body {
+    text-align: center;
+    margin: 10px;
+}
+
+.card-title {
+    margin-top: 10px;
+}
+
+.crud-buttons {
+    margin-top: 10px;
+}
+
+.edit-button {
+    margin-left: 10px;
+}
+
+.button2 {
+    margin-right: 20px;
+}
+
+.delete-button {
+    margin-top: 20px;
+}
+
+.m-bottom {
+    margin-bottom: 20px;
+}
