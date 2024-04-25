@@ -1,0 +1,25 @@
+﻿@model A4.Models.UserModel
+
+<div>
+    <h4>HACKERS: RED LIGHT!</h4>
+    <p>The username and password entered is not one that is typically considered easy to guess.</p>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-controller="Login" asp-action="Index">Try Again</a> |
+    <a asp-controller="Home" asp-action="Learn">Learn More</a>
+</div>
